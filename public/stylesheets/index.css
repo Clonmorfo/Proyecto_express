@@ -1,0 +1,15 @@
+
+/*in here laids the call for the specific files*/
+@import url('header.css');
+@import url('main.css');
+
+/*this section is for the styles thats gonna be used by all the files in the app*/
+body{
+    width: 90vw;
+    margin: auto;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
