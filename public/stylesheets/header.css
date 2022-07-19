@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-desplegable-espaniol{
+    margin: auto;
+}
+
+.main-desplegable-espaniol>ul{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
+
+.main-desplegable-espaniol>ul>li{
+    text-align: center;
+    padding: 8px;
+}
+
+.main-desplegable-espaniol>ul>li>a{
+    text-decoration: none;
+}
+
+.idioma-desplegable>ul{
+    display: flex;
+    flex-direction: column;
+    margin-top:0px;
+    padding-right: 5px;
+}
+
+.idioma-desplegable>ul>li{
+    display: flex;
+    align-items: center;
+}
+
